@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xsl"?>
+<library>
+  <book>
+    <title>Harry Potter and the Sorcerer's Stone</title>
+    <author>J.K. Rowling</author>
+    <publication_year>1997</publication_year>
+  </book>
+  <book>
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <publication_year>1951</publication_year>
+  </book>
+   <book>
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <publication_year>1951</publication_year>
+  </book>
+   <book>
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <publication_year>1951</publication_year>
+  </book>
+   <book>
+    <title>The Catcher in the Rye</title>
+    <author>J.D. Salinger</author>
+    <publication_year>1951</publication_year>
+  </book>
+</library>
